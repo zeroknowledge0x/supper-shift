@@ -1,8 +1,9 @@
 # Supper Shift
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-6C5CE7)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/zeroknowledge0x/supper-shift/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/zeroknowledge0x/supper-shift/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2E8B57.svg)](https://opensource.org/licenses/MIT)
-[![Built with Hermes Agent](https://img.shields.io/badge/built%20with-Hermes%20Agent-C0392B)](https://hermes-agent.nousresearch.com/docs)
 
 A small, original desk-browser cooking game. You run the pass during a dinner
 rush: read the tickets on the order board, pick ingredients off the counter,
